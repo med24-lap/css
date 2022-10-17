@@ -1,0 +1,72 @@
+.parent{
+    display: flex;
+    justify-content: space-around;
+
+   
+   
+    
+}
+img{
+    width: 300px;
+    height: 300px;
+    margin-top: 200px;
+    
+    
+}
+.child1{
+    height: 100px;
+    width: 400px;
+    margin-top: 50px;
+    margin-left: 100px;
+    
+    
+    
+}
+.child2{
+    height: 100px;
+    width: 400px;
+    margin-top: 50px;
+    margin-left: 50px;
+    
+    
+    
+}
+
+.child3{
+    height: 100px;
+    width: 400px;
+    margin-top: 50px;
+    margin-left: 50px; 
+
+
+
+
+    
+
+
+
+   
+    
+
+    
+    
+    
+    
+
+
+
+
+    
+
+
+    
+
+
+
+
+
+   
+
+
+
+
